@@ -28,6 +28,10 @@ https://hariskhan086.github.io/single-page-cv/
 
 https://github.com/hariskhan086/single-page-cv
 
+## Project URL
+
+https://hariskhan086.github.io/single-page-cv/
+
 ## Project
 
 This project was created as part of the roadmap.sh Single-Page CV project.
